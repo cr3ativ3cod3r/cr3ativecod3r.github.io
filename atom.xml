@@ -1,0 +1,39 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Keerthan K K</title>
+    <description>A minimal hugo theme focus on content</description>
+    <link>https://cr3ativecod3r.github.io/</link>
+    
+    <language>en</language>
+    <copyright>Copyright 2023, Calvin Tran</copyright>
+    <lastBuildDate>Wed, 20 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo - gohugo.io</generator>
+    <docs>http://cyber.harvard.edu/rss/rss.html</docs>
+    <atom:link href="https://cr3ativecod3r.github.io//atom.xml" rel="self" type="application/atom+xml"/>
+    
+    
+    <item>
+      <title>INTRO</title>
+      <link>https://cr3ativecod3r.github.io/posts/my-first-post/</link>
+      <description>&lt;p&gt;amFOSS-Praveshan&lt;/p&gt;
+&lt;p&gt;Before coming to Amrita itself I had decided to try my level best to get into amFOSS. I am from a non-cse background. I studied Biology in 12th.But during my high school days I have tried a little bit of python. It seemed interesting to me. So after JEE and everything was over, I learned python. I tried to solve some Leetcode problems, but it seemed too difficult as I was a beginner. So I switched to Codechef and started doing problems of around 200 difficulty and then slowly leveling up. As I progressed, I was able to do problems of 1500 difficulty and I was also enjoying the process.&lt;/p&gt;
+&lt;p&gt;Then, the amFOSS Praveshan began. The initial tasks were easy. As I had been using Ubuntu for many years, I was comfortable with it and it helped me in task-01 as well. As I progressed through the tasks, it was getting difficult. Still, I tried my level best. Through this process, I was able to learn about different interesing fields.&lt;/p&gt;
+</description>
+      <author>Calvin Tran</author>
+      <guid>https://cr3ativecod3r.github.io/posts/my-first-post/</guid>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>The approach</title>
+      <link>https://cr3ativecod3r.github.io/posts/second-post/</link>
+      <description>&lt;p&gt;Initially I thought hugo would be an easy task but during execution it faced many errors and I had to redo it 5 times.I created two repositries in github one to store the files and another one to host the website.I cloned the first one and created hugo new site.To its themes added my desired theme.And made necessary changes to title,url etc.Then I added it to the other repository and hosted my website in it.&lt;/p&gt;
+</description>
+      <author>Calvin Tran</author>
+      <guid>https://cr3ativecod3r.github.io/posts/second-post/</guid>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    
+  </channel>
+</rss>
