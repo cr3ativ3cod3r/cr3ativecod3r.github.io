@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Keerthan K K</title>
+    <link>https://cr3ativecod3r.github.io/posts/</link>
+    <description>Recent content in Posts on Keerthan K K</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Wed, 20 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cr3ativecod3r.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>INTRO</title>
+      <link>https://cr3ativecod3r.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://cr3ativecod3r.github.io/posts/my-first-post/</guid>
+      <description>amFOSS-Praveshan
+Before coming to Amrita itself I had decided to try my level best to get into amFOSS. I am from a non-cse background. I studied Biology in 12th.But during my high school days I have tried a little bit of python. It seemed interesting to me. So after JEE and everything was over, I learned python. I tried to solve some Leetcode problems, but it seemed too difficult as I was a beginner.</description>
+    </item>
+    
+    <item>
+      <title>The approach</title>
+      <link>https://cr3ativecod3r.github.io/posts/second-post/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://cr3ativecod3r.github.io/posts/second-post/</guid>
+      <description>Initially I thought hugo would be an easy task but during execution it faced many errors and I had to redo it 5 times.I created two repositries in github one to store the files and another one to host the website.I cloned the first one and created hugo new site.To its themes added my desired theme.And made necessary changes to title,url etc.Then I added it to the other repository and hosted my website in it.</description>
+    </item>
+    
+  </channel>
+</rss>
